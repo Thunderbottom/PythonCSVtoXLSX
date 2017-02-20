@@ -1,1 +1,7 @@
+# Files
 .DS_STORE
+
+# Folders
+__pycache__/
+logs/
+output/
